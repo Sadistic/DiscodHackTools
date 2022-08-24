@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>ZeroDiscord</h1>
+    <h1>Discord Hack Tools</h1>
     <h4>A collection of Discord hacks, exploits & tools that is completely made using NodeJS</h4>
 <br>
 
