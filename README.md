@@ -46,8 +46,5 @@ First off, all of the tools here are for educational & testing purposes only. Au
 | DCEImporter | DiscordChatExporter exported messsages(JSON) importer. |
 
 <br> 
-    
-## License
-<a href="https://github.com/OTAKKATO/ZeroDiscord/blob/main/LICENSE"> MIT © OTAK </a>
 
 </div>
